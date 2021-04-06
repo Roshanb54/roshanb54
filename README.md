@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Roshan</h1>
+<h1 align="center">Hi 👋, I'm Roshan</h1>
 <h3 align="center">A passionate WordPress developer from Pokhara (code is poetry).</h3>
 
 <br/>

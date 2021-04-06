@@ -13,15 +13,15 @@
 
 - 🌱 I’m a Senior WordPress Developer
 
-- 🔭 I’m currently working on **Webpoint Solutions LLC**
+- 🔭 Currently, I’m working as a Senior WordPress Developer at **Webpoint Solutions LLC**
 
 - 🥅 2021 Goals: Learn new things as much as i can
 
-- 💻 Some of my projects are available in [here](https://rpbanstola.com.np/#portfolio)
+- 💻 Some of my projects are available [here](https://rpbanstola.com.np/#portfolio)
 
-- 📫 How to reach me: **rpbanstola.com.np**
+- 📫 How to reach me: [**rpbanstola.com.np**](https://rpbanstola.com.np/)
 
-- ⚡ Fun fact: **[Art](https://www.facebook.com/roshanb54/), Listen Music, Travelling & Photography**
+- ⚡ Hobbies & Interests: **[Art](https://www.facebook.com/roshanb54/), Music, Travelling & Photography**
 
 
 <br />

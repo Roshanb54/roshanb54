@@ -8,11 +8,11 @@
 <img src="https://komarev.com/ghpvc/?username=roshanb54" alt="roshanb54" /> 
 </p>
 
-<img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <br/>
 
-- 🌱 I’m a WordPress Developer
+- 🌱 I’m a Senior WordPress Developer
 
 - 🔭 I’m currently working on **Webpoint Solutions LLC**
 

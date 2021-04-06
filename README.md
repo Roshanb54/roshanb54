@@ -16,10 +16,12 @@
 - 🔭 I’m currently working on **Webpoint Solutions LLC**
 
 - 🥅 2021 Goals: Learn new things as much as i can
-- 
+
 - 💻 Some of my projects are available in [here](https://rpbanstola.com.np/#portfolio)
 
 - 📫 How to reach me: **rpbanstola.com.np**
+
+- ⚡ Fun fact: **[Art](https://www.facebook.com/roshanb54/), Listen Music, Travelling & Photography**
 
 
 <br />

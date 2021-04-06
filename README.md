@@ -21,7 +21,7 @@
 
 - 📫 How to reach me: [**rpbanstola.com.np**](https://rpbanstola.com.np/)
 
-- ⚡ Hobbies & Interests: **[Art](https://www.facebook.com/roshanb54/), Music, Travelling & Photography**
+- ⚡ Hobbies & Interests: **[Art](https://www.facebook.com/roshanb54/), Music, Traveling & Photography**
 
 
 <br />

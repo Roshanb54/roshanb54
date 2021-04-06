@@ -19,7 +19,6 @@
 
 - 📫 How to reach me: **rpbanstola.com.np**
 
-- ⚡ Fun fact: **I love good music and movies.**
 
 <br />
 

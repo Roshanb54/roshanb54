@@ -13,7 +13,7 @@
 
 - 🌱 I’m a Senior WordPress Developer
 
-- 🔭 Currently, I’m working as a Senior WordPress Developer at **Webpoint Solutions LLC**
+- 🔭 Currently, I’m working as a Senior WordPress Developer at **Webpoint Solutions, LLC**
 
 - 🥅 2021 Goals: Learn new things as much as i can
 

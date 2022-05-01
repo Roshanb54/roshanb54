@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan</h1>
-<h3 align="center">A passionate WordPress developer from Pokhara (code is poetry).</h3>
+<h3 align="center">A passionate WordPress developer from Pokhara, Nepal (code is poetry).</h3>
 
 <br/>
 

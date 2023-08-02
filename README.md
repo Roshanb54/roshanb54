@@ -11,7 +11,7 @@
 
 <br/>
 
-- 🌱 I’m a Senior WordPress Developer
+- 🌱 I’m a Senior Software Engineer/WordPress Developer
 
 - 🔭 Currently, I’m working as a Senior Software Engineer at **Webpoint Solutions, LLC**
 

@@ -17,7 +17,7 @@
 
 - 🥅 2023 Goals: Learn new things as much as i can
 
-- 💻 Some of my projects are available [here](https://rpbanstola.com.np/#portfolio)
+- 💻 Some of my projects are available [here](https://rpbanstola.com.np/#portfolio){:target="_blank" rel="noopener"}
 
 - 📫 How to reach me: [**rpbanstola.com.np**](https://rpbanstola.com.np/)
 

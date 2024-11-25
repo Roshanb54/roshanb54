@@ -15,8 +15,6 @@
 
 - 🔭 Currently, I’m working as a Senior Software Engineer at **Webpoint Solutions, LLC**
 
-- 🥅 2024 Goals: Learn new things as much as i can
-
 - 💻 Some of my projects are available [here](https://rpbanstola.com.np/#portfolio)
 
 - 📫 How to reach me: [**rpbanstola.com.np**](https://rpbanstola.com.np/)

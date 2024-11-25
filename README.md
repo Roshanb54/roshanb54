@@ -13,7 +13,7 @@
 
 - 🌱 I’m a Senior Software Engineer/WordPress Developer
 
-- 🔭 Currently, I’m working as a Senior Software Engineer at **Webpoint Solutions, LLC**
+- 🔭 Currently,  I am working as a **freelance WordPress developer**.
 
 - 💻 Some of my projects are available [here](https://rpbanstola.com.np/#portfolio)
 
